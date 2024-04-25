@@ -9,7 +9,7 @@ Two types of agents:
   
 In a time step:  
 *	Each sugar site
-  - if it doesn’t reach its capacity, grows one unit of sugar;   
+  * if it doesn’t reach its capacity, grows one unit of sugar;   
 *	Each ant:
   - looks out as far as vision permits in the four directions and identifies the unoccupied sites with the most sugar;
   - If there are more than one sites having the most sugar, the ant will choose the nearest one and move to that site;  
