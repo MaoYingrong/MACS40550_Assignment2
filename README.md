@@ -9,10 +9,10 @@ Two types of agents:
 
       
 In a time step:  
-Each sugar site
-  * if it doesn’t reach its capacity, grows one unit of sugar;   
-Each ant:
-  - looks out as far as vision permits in the four directions and identifies the unoccupied sites with the most sugar;
+Each sugar site  
+- if it doesn’t reach its capacity, grows one unit of sugar;   
+Each ant
+- looks out as far as vision permits in the four directions and identifies the unoccupied sites with the most sugar;
   - If there are more than one sites having the most sugar, the ant will choose the nearest one and move to that site;  
   - Then, it collects all the sugar at that site and updates its sugar holding.
   - The sugar holding of each ant is updated (the original value + new collected - metabolism). If it’s negative, this ant starve and is moved out of the model.
