@@ -2,7 +2,10 @@
 
 This is Epstein & Axtell’s Sugarscape Constant Growback model. It’s based on the NetLogo Sugarscape 2 Constant Growback (Li and Wilensky, 2009), but the code is adapted 
 
-from Mesa examples (https://github.com/projectmesa/mesa-examples/tree/main/examples/sugarscape_cg). This model aims to simulate that a population of agents gathers renewable, spatially unequally distributed resources from its environment. It shows agents' movement and survival patterns.![image](https://github.com/MaoYingrong/MACS40550_Assignment2/assets/65118291/88db2b3a-af03-4bd8-9770-c61d5b2bb56a)  
+from Mesa examples (https://github.com/projectmesa/mesa-examples/tree/main/examples/sugarscape_cg). This model aims to simulate that a population of agents gathers renewable, spatially unequally distributed resources 
+
+from its environment. It shows agents' movement and survival patterns
+.![image](https://github.com/MaoYingrong/MACS40550_Assignment2/assets/65118291/88db2b3a-af03-4bd8-9770-c61d5b2bb56a)  
 
 Two types of agents:  
 - Sugar: constantly grows until it reaches its capacity;  
